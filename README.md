@@ -1,12 +1,8 @@
 ### Codlivion Here!
 
-I am a self learning Indie Game Developer. I do everything from coding and game designing to graphics and music by myself. My current project is a 16 bit style 2D Platformer Game on MonoGame.
-I am also learning different fields of coding. Using .NET Framework, I'm at Windows Forms level right now and on my way to ASP.NET.
-Currently I can write in C#, but I plan to learn C, C++, Java, JavaScript, HTML, CSS thoroughly in time as well.
-
-I am open to simple freelance works for beginners.
-
-Some Desktop Application projects I am passively working on at the moment:
-A TodoList Application
-A Phonebook Application
-A Finance Tracker Application
+An ambitious Indie Game Developer.
+I work solo on my own retro style 2D projects where I do all the coding, game design, graphics and sound by myself.
+Mainly using C#, have experimented some with Unity, and currently using MonoGame. I enjoy practicing C++ as well.
+I also work on other fields of coding. I'm quite interested in desktop applications and did some small experimental projects in Windows Forms.
+For Web Development, I'm still learning and building my knowledge on ASP.NET, Cloud, HTML, CSS and JavaScript.
+I will be updating this as I improve.
